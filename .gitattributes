@@ -1,1 +1,1 @@
-*.ts linguist-language=cpp
+*.* linguist-language=C++
